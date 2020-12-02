@@ -1,0 +1,7 @@
+http://localhost:8080/incorta/performance.jsp?path=/Users/asserhangal/eclipse-workspace-new/JSPResults/4_9_ref&tenant=ebs&login=admin&pass=admin&logQueryPlan=true
+http://localhost:8080/incorta/performance.jsp?path=/Users/asserhangal/eclipse-workspace-new/JSPResults/4_9_newJSP&tenant=ebs&login=admin&pass=admin&logQueryPlan=true&ref=4_9_ref
+
+
+
+
+if (!s.startsWith("\"subqueryComplete\":") && !s.startsWith("\"ov\":") && !s.startsWith("\"result\":")) {
